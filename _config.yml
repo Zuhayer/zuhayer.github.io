@@ -18,23 +18,23 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: zuhayer171288@gmail.com
   facebook: facebook.com/zuhayer171288
   flickr: flickr.com/zuhayer171288
-  github: barryclark/jekyll-now
+  github: Zuhayer/zuhayer.github.io
   instagram:
   linkedin: linkdin.com/zuhayer171288
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: zuhayer171288
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: "users/2870729/zuhayer"
   youtube: user/zuhayer171288
   googleplus: +zuhayer171288
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus:@zuhayertahir
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
